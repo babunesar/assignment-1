@@ -204,6 +204,7 @@ h2 {
     border: 2px solid rgba(129,129,129,.2);
     background-color: transparent;
     border-radius: 20px 0 0 20px;
+    border-right: none;
     width: 300px;
 }
 .newslatter-right input[type = button] {
